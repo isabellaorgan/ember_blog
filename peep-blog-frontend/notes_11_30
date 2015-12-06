@@ -1,0 +1,29 @@
+.flex-container {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: flex-end;
+	justify-content: center;
+}
+
+(align-items: flex-end; = sticky-footer)
+(wrap or no-wrap)
+
+.flex-container {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-content: space-between;
+}
+
+.flex-child {
+	height: 50px;
+}
+
+.flex-child-2 {
+	height: 300px;
+	text-align:
+}
+
+Old Flexbox vs New Flexbox
+

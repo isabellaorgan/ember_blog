@@ -1,0 +1,18 @@
+Atomic Design - everything is built of smaller pieces
+
+Block Element Modifier
+
+.site-card {
+	box-shadow: 0 1px 1px -1 px rgba(0,0,0,6);
+	margin-bottom 1em;
+}
+
+article class="item-card site card"
+
+.column, 
+.columns {
+	margin-left: 4%;
+}
+.column:first-child,
+.columns:first-child
+
